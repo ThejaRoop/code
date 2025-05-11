@@ -1,0 +1,47 @@
+Data Structures and Algorithms (using built-in types):
+
+Arrays/Lists:
+Implement a function to reverse a list in-place.
+Write a function to find the intersection of two lists.
+Implement a function to check if a list contains a duplicate element.
+Strings:
+Implement a function to check if a string is a palindrome.
+Write a function to reverse the words in a sentence.
+Implement a function to find the first non-repeating character in a string.
+Dictionaries (Hash Maps):
+Write a function to count the frequency of each character in a string.
+Implement a function to group anagrams from a list of words.
+Sets:
+Write a function to find the union and intersection of two sets (without using set operators).
+Implement a function to check if one list is a subset of another.
+Linked Lists (implementing the Node class yourself):
+Implement functions to insert a node at the beginning, end, and a specific position.
+Write a function to reverse a linked list.
+Implement a function to detect a cycle in a linked list.
+Stacks and Queues (using lists as underlying structures):
+Implement a stack with push, pop, and peek operations.
+Implement a queue with enqueue and dequeue operations.
+Solve problems like parenthesis matching using a stack.
+Trees (implementing the Node class yourself):
+Implement basic tree traversals (inorder, preorder, postorder) recursively.
+Write a function to find the height of a binary tree.
+
+
+
+
+2. Basic Python Fundamentals:
+
+Functions:
+Write a function that takes a variable number of arguments.
+Implement a recursive function (e.g., factorial, Fibonacci).
+Control Flow:
+Solve problems involving conditional logic and loops.
+Error Handling:
+Write code that uses try-except blocks to handle potential errors (e.g., ValueError, TypeError).
+3. String Manipulation (without re for basic cases):
+
+Implement basic string searching or replacement algorithms.
+4. Iterators and Generators:
+
+Implement a custom iterator for a specific sequence.
+Write a generator function to produce a sequence on demand (e.g., Fibonacci sequence).
